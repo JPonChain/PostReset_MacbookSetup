@@ -87,7 +87,7 @@ This system transforms a brand new Mac into a fully-configured professional work
 
 1. **Download all scripts to your Mac**
    ```
-   cd ~/Downloads/InvestigationSetUp-main
+   cd ~/Downloads/PostReset_MacbookSetup
    ```
 
 2. **Run the bootstrap**
